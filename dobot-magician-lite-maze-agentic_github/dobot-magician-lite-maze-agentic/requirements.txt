@@ -1,0 +1,5 @@
+numpy
+opencv-python
+pydobot
+pyserial
+google-genai>=1.0.0
