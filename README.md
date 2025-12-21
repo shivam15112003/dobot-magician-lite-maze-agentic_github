@@ -11,6 +11,18 @@ Supports **camera capture** (`--camera-index`) *and* **saved images**.
 - **Camera support** (interactive preview or headless one-frame capture).
 - **Z height**: default work Z is **120 mm**; override with `--z-work`.
 
+## 🎥 Video Demonstration
+
+See the **Agentic AI** and **Local Planner** executing the maze solution on the **Dobot Magician Lite**.
+
+<div align="center">
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch_Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/ss1511_asu-robotics-ai-activity-7394842320443072512-O4I-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOiEBcBfeZohokyDTXwG0fo2BslAbJFwUk)
+
+**[▶️ Click here to view the full activity post](https://www.linkedin.com/posts/ss1511_asu-robotics-ai-activity-7394842320443072512-O4I-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOiEBcBfeZohokyDTXwG0fo2BslAbJFwUk)**
+
+</div>
+
 ## Install
 ```bash
 sudo apt update && sudo apt install -y libgl1 libglib2.0-0
